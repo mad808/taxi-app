@@ -34,7 +34,7 @@
             <!-- End: Footer Text -->
 
             <!-- Start: Social Icons -->
-            <div class="col item social"><a href="https://github.com/MiguelEmmara-ai" target="_blank"><i
+            <div class="col item social"><a href="https://github.com/mad808" target="_blank"><i
                         class="icon ion-social-github"></i></a></div><!-- End: Social Icons -->
         </div>
         <!-- Start: Copyright -->
