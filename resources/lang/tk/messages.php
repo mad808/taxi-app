@@ -169,7 +169,7 @@ return [
     'careers' => 'Karýera',
     'tagline' => 'Nirede bolsaňyzam, Online Taksi sizi barmaly ýeriňize elter. Ony hemmämiziň buýsanyp biljek has howpsuz we netijeli ulag serişdesine öwürýäris.',
     'slogan' => 'Bilelikde öňe.',
-    'copyright' => 'Abdyleziz Sopyýew © 2025',
+    'copyright' => 'Abdyleziz Sopyýew © 2026',
 
     'services' => 'Hyzmatlar',
     'book_ride' => 'Syýahat bron ediň',
@@ -181,7 +181,7 @@ return [
     'careers' => 'Karýera',
     'tagline' => 'Nirede bolsaňyzam, Online Taksi sizi barmaly ýeriňize elter. Ony hemmämiziň buýsanyp biljek has howpsuz we netijeli ulag serişdesine öwürýäris.',
     'slogan' => 'Bilelikde öňe.',
-    'copyright' => 'Abdyleziz Sopyýew © 2025',
+    'copyright' => 'Abdyleziz Sopyýew © 2026',
 
     'company_name' => 'Online Taksi',
     'toggle_navigation' => 'Nawigasiýany gizläň',

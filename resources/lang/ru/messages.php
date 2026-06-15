@@ -171,7 +171,7 @@ return [
     'careers' => 'Карьера',
     'tagline' => 'Где бы вы ни находились, Online Taxi доставит вас к месту назначения. Мы делаем транспорт более безопасным и эффективным средством, которым мы все можем гордиться.',
     'slogan' => 'Вперед вместе.',
-    'copyright' => 'Abdyleziz Sopyyev © 2025',
+    'copyright' => 'Abdyleziz Sopyyev © 2026',
 
     'services' => 'Услуги',
     'book_ride' => 'Заказать поездку',
@@ -183,7 +183,7 @@ return [
     'careers' => 'Карьера',
     'tagline' => 'Где бы вы ни находились, Online Taxi доставит вас к месту назначения. Мы делаем транспорт более безопасным и эффективным средством, которым мы все можем гордиться.',
     'slogan' => 'Вперед вместе.',
-    'copyright' => 'Abdyleziz Sopyyev © 2025',
+    'copyright' => 'Abdyleziz Sopyyev © 2026',
 
     'company_name' => 'Online Taxi',
     'toggle_navigation' => 'Скрыть навигацию',

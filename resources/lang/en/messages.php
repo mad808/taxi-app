@@ -169,7 +169,7 @@ return [
     'careers' => 'Careers',
     'tagline' => 'Wherever you are, Online Taxi will take you to your destination. We are turning it into a safer and more efficient transportation that we can all be proud of.',
     'slogan' => 'Forward together.',
-    'copyright' => 'Muhamad Miguel Emmara © 2022 - Made with',
+    'copyright' => 'Abdyleziz Sopyýew © 2026',
 
     'company_name' => 'Online Taxi',
     'toggle_navigation' => 'Hide Navigation',
